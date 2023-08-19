@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/shuding/nextra-docs-template#readme",
   "dependencies": {
-    "next": "^13.0.6",
+    "@vercel/analytics": "^1.0.2",
+    "eslint-config-next": "^13.4.19",
+    "next": "^13.4.19",
     "nextra": "latest",
     "nextra-theme-docs": "latest",
     "react": "^18.2.0",
