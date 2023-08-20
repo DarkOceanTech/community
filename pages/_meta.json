@@ -1,15 +1,24 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
+  "index": {
+    "theme": {
+      "layout": "full"
+    },
+    "display": "hidden"
+  },
+  "darkocean": {
+    "title": "Dark Ocean Engineering",
+    "type": "page"
+  },
+  "darkwave": {
+    "title": "Dark Wave Analytics",
+    "type": "page"
+  },
+  "bermudez": {
+    "title": "Bermudez Associates",
     "type": "page"
   },
   "contact": {
     "title": "Contact ↗",
-    "type": "page",
-    "href": "https://twitter.com/shuding_",
-    "newWindow": true
+    "type": "page"
   }
 }
