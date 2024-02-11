@@ -1,10 +1,19 @@
 import React from 'react';
 import { DocsThemeConfig } from 'nextra-theme-docs';
+import Image from 'next/image';
+import profilePic from './public/transparent-white-logo.png';
 
 const config: DocsThemeConfig = {
-  logo:<span>Dark Ocean Community</span>,
+  logo: (
+    <>
+      <Image src={profilePic} alt='dark ocean technologies' height={40}  />
+      <span style={{
+            marginLeft: '5px'
+          }}>Dark Ocean Community</span>
+    </>
+  ),
   project: {
-    link: 'https://github.com/DarkOceanTech/community',
+    link: 'https://github.com/DarkOceanTech/',
   },
   // chat: {
   //   link: 'https://discord.com',
