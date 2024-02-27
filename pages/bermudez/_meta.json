@@ -1,4 +1,7 @@
 {
-    "index":"Dashboard",
-    "blogkeeper":"BlogKeeper"
+    "index":"Welcome",
+    "blogkeeper":"BlogKeeper",
+    "bookkeeping":"Bookkeeping",
+    "accounting":"Accounting",
+    "payroll":"Payroll"
 }
