@@ -18,7 +18,7 @@ const config: DocsThemeConfig = {
   // chat: {
   //   link: 'https://discord.com',
   // },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: 'https://github.com/DarkOceanTech/community',
   footer: {
     text: `${new Date().getFullYear()} © Dark Ocean Technologies, LLC.`,
   },
