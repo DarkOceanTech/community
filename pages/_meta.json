@@ -1,26 +1,33 @@
 {
   "index": {
-    "theme": {
-      "layout": "full"
-    },
+    "title": "Home Base",
+    "type": "page",
     "display": "hidden"
   },
-  "darkocean": {
-    "title": "Engineering",
-    "type": "page"
-  },
-  "darkwave": {
-    "title": "Analytics",
+  "legal": {
+    "title": "Legal",
     "type": "page"
   },
   "bermudez": {
     "title": "Accounting",
     "type": "page"
   },
+  "darkocean": {
+    "title": "Engineering",
+    "type": "page"
+  },
+  "darkwave": {
+    "title": "Research",
+    "type": "page"
+  },
+  "marserp": {
+    "title": "MARS",
+    "type": "page"
+  },
   "contact": {
-    "title": "Contact ↗",
+    "title": "Contact Us ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://us8.list-manage.com/contact-form?u=ce56e6cfcae4ae9b24870c921&form_id=217efc6d4d4bc810285c581c94414e7f",
     "newWindow": true
   }
 }
